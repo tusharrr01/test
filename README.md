@@ -1,3 +1,3 @@
-heyy this is my first project uin github 
+heyy this is my first project on github 
 
 hurrey
